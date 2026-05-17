@@ -44,6 +44,9 @@ location:    Bangkok, Thailand 🇹🇭
 education:   B.Sc. Data Science & Business Analytics (Data Engineering Track) — KMITL
 trajectory:  AI Engineer → Senior → Tech Lead → Founder (AI / Security / AGI)
 philosophy:  "Every number is calculated, not generated. AI interprets — it never invents."
+portfolio:   https://nattakamonj-portfolio.vercel.app/
+linkedin:    in/nattakamon-jaimetha
+email:       dxrksvng@gmail.com
 ```
 
 > **Core principle across all my work** — Python calculates → AI interprets.
@@ -289,14 +292,17 @@ stack = {
 
 <div align="center">
 
+<a href="https://nattakamonj-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://linkedin.com/in/nattakamon-jaimetha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 <a href="https://github.com/Dxrksvng">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="mailto:dxrksvng@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://github.com/Dxrksvng/web-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://github.com/Dxrksvng/dynazme">
   <img src="https://img.shields.io/badge/Dynazme-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" alt="dynazme" />
