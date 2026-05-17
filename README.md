@@ -46,7 +46,7 @@ trajectory:  AI Engineer → Senior → Tech Lead → Founder (AI / Security / A
 philosophy:  "Every number is calculated, not generated. AI interprets — it never invents."
 portfolio:   https://nattakamonj-portfolio.vercel.app/
 linkedin:    in/nattakamon-jaimetha
-email:       dxrksvng@gmail.com
+email:       nattakamon0208@gmail.com
 ```
 
 > **Core principle across all my work** — Python calculates → AI interprets.
@@ -301,7 +301,7 @@ stack = {
 <a href="https://github.com/Dxrksvng">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
-<a href="mailto:dxrksvng@gmail.com">
+<a href="mailto:nattakamon0208@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="https://github.com/Dxrksvng/dynazme">
